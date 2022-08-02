@@ -41,8 +41,15 @@ Selanjutnya kita coba masuk posgree nya dengan ketikan terminal seperti dibawah 
 $ sudo -u postgres psql
 
 ```
-Selanjutnya berikan password laptop kita 
+Selanjutnya berikan password laptop / pc kita 
+```
+password laptop kita 
+```
+
 Lalu ia akan meminta password untuk masuk ke postgree yang telah kita buat pada saat instalasi postgree.
+```
+password yang kita buat saat instalasi
+```
 
 Setelah bisa masuk ke postgree maka tulisannya akan seperti ini
 ```
